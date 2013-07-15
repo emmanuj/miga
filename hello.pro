@@ -1,0 +1,1 @@
+go:- nl, write('Hello, Mr John'),nl.
