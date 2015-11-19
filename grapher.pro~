@@ -1,0 +1,9 @@
+/* sde project 1*/
+/* Author: Emmanuel John */
+
+repeated_in(L,RS)./* succeeds if L is repeated in list RS */
+at_most_one(L,RS). /* Succeed if L is conatained at most once in the list RS */
+at_least_one(L,RS). /* succeeds if L is cotained at least once in list RS */
+exactly_one(L,RS). /* succeeds if L is conatained exactly once in list RS */
+
+

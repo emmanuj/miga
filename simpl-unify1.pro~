@@ -18,7 +18,7 @@ a.
 
 /*Defining the not*/
 
-not(V):-call(V),!,fail.
-not(V).
+not(P):-call(P),!,fail.
+not(P).
 
 
